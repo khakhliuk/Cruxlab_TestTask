@@ -1,0 +1,7 @@
+H:\C#\Cruxlab_TestTask\Cruxlab_TestTask\bin\Debug\Cruxlab_TestTask.exe
+H:\C#\Cruxlab_TestTask\Cruxlab_TestTask\bin\Debug\Cruxlab_TestTask.pdb
+H:\C#\Cruxlab_TestTask\Cruxlab_TestTask\obj\Debug\Cruxlab_TestTask.csproj.AssemblyReference.cache
+H:\C#\Cruxlab_TestTask\Cruxlab_TestTask\obj\Debug\Cruxlab_TestTask.csproj.SuggestedBindingRedirects.cache
+H:\C#\Cruxlab_TestTask\Cruxlab_TestTask\obj\Debug\Cruxlab_TestTask.csproj.CoreCompileInputs.cache
+H:\C#\Cruxlab_TestTask\Cruxlab_TestTask\obj\Debug\Cruxlab_TestTask.exe
+H:\C#\Cruxlab_TestTask\Cruxlab_TestTask\obj\Debug\Cruxlab_TestTask.pdb
